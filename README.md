@@ -2,77 +2,34 @@
 
 Interactive Tableau dashboard suite analyzing **New York State greenhouse gas emissions, distributed solar energy adoption, and Clean Energy Fund performance**, built using publicly available **NYS Open Data**.
 
-**Tools:** Tableau Desktop, NYS Open Data, Excel, GitHub  
+**Tools:** Tableau Desktop, NYS Open Data, Excel, SQL, GitHub  
 **Domain:** Energy & Environmental Analytics  
+---
+
+## 🌿 Project Overview
+
+Built an **interactive Tableau dashboard suite** focused on **sustainability and clean energy initiatives across New York State**, leveraging **NYS Open Data** to transform fragmented public datasets into decision-ready analytics.
+
+The dashboard suite includes:
+
+- ✅ **Clean Energy Programs in New York** — Visualizes cumulative program progress, budget allocation, emissions reduction, and energy savings across statewide clean energy initiatives.
+- ✅ **NYS Solar Energy Project Trends** — Analyzes solar installation growth trends, top developers, utility performance, and regional project distribution across New York State.
+- ✅ **Statewide Greenhouse Gas Emissions** — Tracks long-term greenhouse gas emissions by sector, fuel type, and gas composition with interactive drill-down selections.
+
+Designed to be **interactive, user-friendly, and visually compelling**, these dashboards help **policy teams, sustainability analysts, and program stakeholders** make **data-driven decisions that support New York’s clean energy transition goals**. 🌎✨
 
 ---
 
-# Project Overview
-New York State has committed to an **85% reduction in GHG emissions by 2050** and a **100% zero-emission electricity grid by 2040** under the **Climate Leadership and Community Protection Act (CLCPA)**.
+# 📊 Dashboard Screenshots
 
-Despite rich public datasets, no centralized analytics solution existed to connect:
-- GHG trends
-- solar growth
-- utility performance
-- CED program KPIs
+## 🌍 Statewide Greenhouse Gas Emissions
+![Statewide Greenhouse Gas Emissions](Screenshots/Dashboard 1.jpeg)
 
-This project transforms fragmented public datasets into a **self-service Tableau analytics suite** for policymakers, program managers, and energy analysts.
+## ☀️ NYS Solar Energy Project Trends
+![NYS Solar Energy Project Trends](Screenshots/Dashboard 2.jpeg)
 
----
-
-# 📊 Dashboard Suite
-## 1) GHG Emissions Dashboard
-Tracks NYS greenhouse gas emissions trends from **1990–present**.
-
-### Key Features
-- sector-level drill-down
-- gas type filters
-- GWP selector
-- 30+ year trend analysis
-- emissions KPI tiles
-
----
-
-## 2) Solar Energy Dashboard — Overview
-Analyzes statewide distributed solar growth.
-
-### Key Features
-- total project counts
-- installed capacity
-- top 10 developers
-- utility territory benchmarking
-- annual PV production
-
----
-
-## 3) Solar Energy Dashboard — Geographic View
-Enhanced geographic dashboard with ZIP-level mapping.
-
-### Key Features
-- interactive year action filters
-- ZIP code map
-- auto-fit zoom
-- utility territory analysis
-- county-level comparisons
-
----
-
-## 4) CED Combined Analytics Dashboard
-Cross-dataset dashboard combining:
-- GHG emissions
-- solar growth
-- CED Open NY KPIs
-- participant-level metrics
-
----
-
-# 📄 Documentation
-This repository includes:
-- **Business Requirements Document (BRD)**
-- **Problem Statement**
-- **data assumptions**
-- **stakeholder requirements**
-
+## ⚡ Clean Energy Programs in New York
+![Clean Energy Programs in New York](Screenshots/Dashboard 3.jpeg)
 ---
 
 # Data Sources
@@ -84,8 +41,6 @@ Sources:
 - NYSERDA Open Data — CED Program
 - NYSERDA Open Data — Participants
 
-See `data/README.md` for download instructions.
-
 ---
 
 # Key Business Questions Answered
@@ -95,15 +50,6 @@ See `data/README.md` for download instructions.
 - Who are the top developers by capacity?
 - Which ZIP codes lag in clean energy adoption?
 - How is CED program spending performing?
-
----
-
-# 🛠️ Tools & Technologies
-- Tableau Desktop
-- NYS Open Data
-- Microsoft Excel
-- GitHub
-- Business Requirements Documentation
 
 ---
 
