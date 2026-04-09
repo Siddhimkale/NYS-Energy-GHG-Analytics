@@ -23,13 +23,13 @@ Designed to be **interactive, user-friendly, and visually compelling**, these da
 # 📊 Dashboard Screenshots
 
 ## 🌍 Statewide Greenhouse Gas Emissions
-![Statewide Greenhouse Gas Emissions](Screenshots/Dashboard 1.jpeg)
+![Statewide Greenhouse Gas Emissions](Screenshots/Dashboard_1.jpeg)
 
 ## ☀️ NYS Solar Energy Project Trends
-![NYS Solar Energy Project Trends](Screenshots/Dashboard 2.jpeg)
+![NYS Solar Energy Project Trends](Screenshots/Dashboard_2.jpeg)
 
 ## ⚡ Clean Energy Programs in New York
-![Clean Energy Programs in New York](Screenshots/Dashboard 3.jpeg)
+![Clean Energy Programs in New York](Screenshots/Dashboard_3.jpeg)
 ---
 
 # Data Sources
